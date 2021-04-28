@@ -55,7 +55,7 @@ p {
   cursor: pointer;
   transition: all 0.75s ease;
   background-color: white;
-  border: 1px solid lightgrey;
+  border: 2px solid lightgrey;
   border-radius: 3px;
 }
 .x {
