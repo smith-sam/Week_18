@@ -26,6 +26,7 @@ p{
 }
 .navbar-nav{
   margin-left: auto;
+  margin-right: 0 !important;
 }
 .navbar-brand img {
   padding-right: 15px;
